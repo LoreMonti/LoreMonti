@@ -20,6 +20,7 @@ matters, and physics-validation suites.
 
 | Project | What it is |
 |---|---|
+| **[MHD_Neural_Operator](https://github.com/LoreMonti/MHD_Neural_Operator)** | Fourier Neural Operator surrogate for the magnetized Kelvin–Helmholtz instability, trained on a from-scratch pseudo-spectral MHD solver. Recovers the magnetic stabilization threshold in a band of parameter space held out from training (correlation 0.92 with the true growth rate), with resolution-independent rollout. |
 | **[Tokamak](https://github.com/LoreMonti/Tokamak)** | End-to-end fusion reactor simulator: transport PDEs, Grad–Shafranov equilibrium, feedback control, ML surrogates. Validated against ITER parameters with 93 physics tests, CI, a pybind11 C++ kernel and a Streamlit dashboard. |
 | **[Warp_Drive](https://github.com/LoreMonti/Warp_Drive)** | Numerical study of Alcubierre warp-bubble spacetimes: geometry, exotic energy budget, causal structure. |
 | **[F1-strategy-engine](https://github.com/LoreMonti/F1-strategy-engine)** | Race strategy simulator: Monte Carlo analysis, ML tyre-degradation models, live safety-car re-optimisation. |
