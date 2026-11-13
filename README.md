@@ -53,6 +53,6 @@ Python (PyTorch, TensorFlow, Stable-Baselines3, Gymnasium, NumPy/SciPy) · MATLA
 
 ---
 
-Open to PhD and R&D positions in machine learning for astrodynamics and space systems.
+Open to PhD and R&D positions in machine learning for astrodynamics and space systems, and to a six-month internship (April–September 2027) in GNC, flight dynamics or mission analysis.
 
 [LinkedIn](https://www.linkedin.com/in/lorenzo-monti00) · monti.lorenzo00@gmail.com
