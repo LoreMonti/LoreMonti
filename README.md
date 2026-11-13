@@ -43,8 +43,7 @@ matters, and physics-validation suites.
 
 ### Interests
 
-Orbit propagation and determination · reinforcement learning and classical control for guidance and landing · space situational awareness and debris ·
-thermospheric density and satellite drag · physics-informed neural networks and
+Reinforcement learning and classical control for guidance and landing · orbit propagation and determination · space situational awareness and debris · thermospheric density and satellite drag · physics-informed neural networks and
 neural operators · scientific machine learning
 
 ### Tools
