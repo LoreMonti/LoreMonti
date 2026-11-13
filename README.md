@@ -5,9 +5,10 @@ and physical systems.**
 
 MSc in Physics (Theoretical Physics and Astrophysics), University of Turin —
 110 cum laude. My thesis applied physics-informed neural networks to
-multi-regime satellite orbit propagation, reproducing a Cowell reference
-propagator to within 1% and generalising to satellites unseen in training
-(0.03%–0.67% relative error); a paper on that work is in preparation.
+multi-regime satellite orbit propagation, from LEO to GEO: trained on JPL
+Horizons ephemerides, it kept the position error over one orbit below 1% and
+generalised to spacecraft unseen in training (0.03%–0.67%); a paper on that
+work is in preparation.
 
 My research question is a sharper version of the same one: can a learned
 model recover *physics* rather than interpolate data? In one project, a Fourier
